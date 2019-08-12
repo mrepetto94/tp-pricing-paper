@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Methods used}{5}{0}{2}
+\beamer@sectionintoc {3}{Transfer Pricing Policies}{11}{0}{3}
+\beamer@sectionintoc {4}{The Model}{15}{0}{4}
+\beamer@sectionintoc {5}{Model Deploy}{21}{0}{5}
+\beamer@sectionintoc {6}{Results}{23}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{32}{0}{7}

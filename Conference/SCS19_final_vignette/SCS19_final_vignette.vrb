@@ -1,0 +1,27 @@
+\frametitle{Transfer Pricing Methods}
+\begin{figure}
+\centering
+\begin{tikzpicture}[thick, every node/.style={scale=0.9}]
+  \matrix [column sep=1mm, row sep=3mm] {
+    & &
+  \node (yw) [draw, shape=rectangle,text width=1.5cm,align=center] {OECD TP methods}; &
+  & \\
+  &
+   \node (d1) [draw, shape=rectangle,text width=2cm,align=center] {Traditional Transaction Methods}; & &
+  \node (d2) [draw, shape=rectangle,text width=2cm,align=center] {Transactional Profit Methods}; & \\
+  \node (we) [draw, shape=rectangle,text width=2cm,align=center] {Comparable Uncontrolled Price}; &
+  \node (wf) [draw, shape=rectangle,text width=2cm,align=center] {Resale Price}; &
+  \node (wg) [draw, shape=rectangle,text width=2cm,align=center] {Cost Plus}; &
+  \node (pu) [draw, shape=rectangle,text width=2cm,align=center] {Transactional Net Margin}; &
+  \node (pl) [draw, shape=rectangle,text width=2cm,align=center] {Profit Split}; \\
+};
+\draw[-, thick] (d1) -- (we);
+\draw[-, thick] (yw) -- (d1);
+\draw[-, thick] (yw) -- (d2);
+\draw[-, thick] (pu) -- (d2);
+\draw[-, thick] (d1) -- (wg);
+\draw[-, thick] (d1) -- (wf);
+\draw[-, thick] (d2) -- (pl);
+\end{tikzpicture}
+\caption{TP methods in the OECD guidelines.} \label{fig:tp-m}
+\end{figure}

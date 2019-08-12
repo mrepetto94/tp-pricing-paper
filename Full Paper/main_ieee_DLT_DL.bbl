@@ -1,0 +1,206 @@
+\begin{thebibliography}{10}
+
+\bibitem{ben-tal97}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust truss topology design via semidefinite programming.
+\newblock {\em SIAM Journal on Optimization}, 7(4):991--1016, 1997.
+
+\bibitem{ben-tal98}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust convex optimization.
+\newblock {\em Mathematics of Operations Research}, 23(4):769--805, 1998.
+
+\bibitem{ben-tal99}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust solutions of uncertain linear programs.
+\newblock {\em Operations Research Letters}, 25(1):1--13, 1999.
+
+\bibitem{ben-tal09}
+Aharon Ben-Tal, Laurent~El Ghaoui, and Arkadi Nemirovski.
+\newblock {\em Robust Optimization}.
+\newblock Princeton University Press, 2009.
+
+\bibitem{ben-tal00}
+Aharon Ben-Tal and Arkadi Nemirovski.
+\newblock Robust solutions of linear programming problems contaminated with
+  uncertain data.
+\newblock {\em Mathematical Programming}, 88(3):411--424, 2000.
+
+\bibitem{bertsimas03}
+Dimitris Bertsimas and Melvyn Sim.
+\newblock Robust discrete optimization and network flows.
+\newblock {\em Mathematical Programming}, 98(1-3):49--71, 2003.
+
+\bibitem{bertsimas04}
+Dimitris Bertsimas and Melvyn Sim.
+\newblock The price of robustness.
+\newblock {\em Operations Research}, 52(1):35--53, 2004.
+
+\bibitem{bezanson17}
+Jeff Bezanson, Alan Edelman, Stefan Karpinski, and Viral~B. Shah.
+\newblock Julia: a fresh approach to numerical computing.
+\newblock {\em SIAM Review}, 59(1):65--98, 2017.
+
+\bibitem{plots18}
+Thomas Breloff.
+\newblock Plots.
+\newblock \url{https://github.com/JuliaPlots/Plots.jl}, 2018.
+
+\bibitem{campbell16}
+Katherine Campbell and Duane Helleloid.
+\newblock Starbucks: Social responsibility and tax avoidance.
+\newblock {\em Journal of Accounting Education}, 37(nil):38--60, 2016.
+
+\bibitem{charnes55}
+Abraham Charnes, William~W Cooper, and Robert~O Ferguson.
+\newblock Optimal estimation of executive compensation by linear programming.
+\newblock {\em Management science}, 1(2):138--151, 1955.
+
+\bibitem{dantzig55}
+George~B. Dantzig.
+\newblock Linear programming under uncertainty.
+\newblock {\em Management Science}, 50(12 supplement):1764--1769, 1955.
+
+\bibitem{dunning17}
+Iain Dunning, Joey Huchette, and Miles Lubin.
+\newblock Jump: a modeling language for mathematical optimization.
+\newblock {\em SIAM Review}, 59(2):295--320, 2017.
+
+\bibitem{ghahtarani13}
+Alireza Ghahtarani and Amir~Abbas Najafi.
+\newblock Robust goal programming for multi-objective portfolio selection
+  problem.
+\newblock {\em Economic Modelling}, 33(nil):588--592, 2013.
+
+\bibitem{huber64}
+Peter~J. Huber.
+\newblock Robust estimation of a location parameter.
+\newblock {\em The Annals of Mathematical Statistics}, 35(1):73--101, 1964.
+
+\bibitem{matplotlib07}
+J.~D. Hunter.
+\newblock Matplotlib: A 2d graphics environment.
+\newblock {\em Computing In Science \& Engineering}, 9(3):90--95, 2007.
+
+\bibitem{jones11}
+Dylan Jones.
+\newblock A practical weight sensitivity algorithm for goal and multiple
+  objective programming.
+\newblock {\em European Journal of Operational Research}, 213(1):238--245,
+  2011.
+
+\bibitem{klassen16}
+Kenneth~J. Klassen, Petro Lisowsky, and Devan Mescall.
+\newblock Transfer pricing: Strategies, practices, and tax minimization.
+\newblock {\em Contemporary Accounting Research}, 34(1):455--493, 2016.
+
+\bibitem{kuchta04}
+Dorota Kuchta.
+\newblock Robust goal programming.
+\newblock {\em Control and Cybernetics}, 33(3):501--510, 2004.
+
+\bibitem{leswing18}
+Kif Leswing.
+\newblock Apple will start paying 16 billion in back taxes to ireland, Apr
+  2018.
+
+\bibitem{heimer2003}
+R.~Lougee-Heimer.
+\newblock The common optimization interface for operations research: Promoting
+  open-source software in the operations research community.
+\newblock {\em IBM Journal of Research and Development}, 47(1):57--66, Jan
+  2003.
+
+\bibitem{lubin15}
+Miles Lubin and Iain Dunning.
+\newblock Computing in operations research using julia.
+\newblock {\em INFORMS Journal on Computing}, 27(2):238--248, 2015.
+
+\bibitem{martel96}
+Jean-Marc Martel and Belaïd Aouni.
+\newblock {\em Incorporating the Decision-Maker's Preferences in the Goal
+  Programming Model with Fuzzy Goal Values: A new Formulation}, pages 257--269.
+\newblock Multi-Objective Programming and Goal Programming. Springer Berlin
+  Heidelberg, 1996.
+
+\bibitem{merville1978}
+Larry~J. Merville and J.~William Petty.
+\newblock Transfer pricing for the multinational firm.
+\newblock {\em The Accounting Review}, 53(4):935--951, 1978.
+
+\bibitem{mescall18}
+Devan Mescall and Kenneth~J. Klassen.
+\newblock How does transfer pricing risk affect premiums in cross-border
+  mergers and acquisitions?
+\newblock {\em Contemporary Accounting Research}, 35(2):830--865, 2018.
+
+\bibitem{oecd10}
+OECD.
+\newblock {\em OECD Transfer Pricing Guidelines for Multinational Enterprises
+  and Tax Administrations 2010}.
+\newblock 2010.
+
+\bibitem{oecd12}
+OECD.
+\newblock {\em Dealing Effectively with the Challenges of Transfer Pricing}.
+\newblock OECD Publishing, 2012.
+
+\bibitem{oecd15}
+OECD.
+\newblock {\em Aligning Transfer Pricing Outcomes with Value Creation, Actions
+  8-10 - 2015 Final Reports}.
+\newblock OECD/G20 Base Erosion and Profit Shifting Project. OECD Publishing,
+  2015.
+
+\bibitem{oecd17}
+OECD.
+\newblock {\em OECD Transfer Pricing Guidelines for Multinational Enterprises
+  and Tax Administrations 2017}.
+\newblock OECD, 2017.
+
+\bibitem{r18}
+{R Core Team}.
+\newblock {\em R: A Language and Environment for Statistical Computing}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria, 2018.
+
+\bibitem{soyster73}
+A.~L. Soyster.
+\newblock Technical note-convex programming with set-inclusive constraints and
+  applications to inexact linear programming.
+\newblock {\em Operations Research}, 21(5):1154--1157, 1973.
+
+\bibitem{tibshirani96}
+Robert Tibshirani.
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological)}, 58(1):267--288, 1996.
+
+\bibitem{orbis}
+Bureau van Dijk.
+\newblock Orbis, 2017.
+
+\bibitem{vapnik63}
+V.~Vapnik.
+\newblock Pattern recognition using generalized portrait method.
+\newblock {\em Automation and Remote Control}, 24:774--780, 1963.
+
+\bibitem{waechter05}
+Andreas W{\"a}chter and Lorenz~T. Biegler.
+\newblock On the implementation of an interior-point filter line-search
+  algorithm for large-scale nonlinear programming.
+\newblock {\em Mathematical Programming}, 106(1):25--57, 2005.
+
+\bibitem{ggplot206}
+Hadley Wickham.
+\newblock {\em ggplot2: Elegant Graphics for Data Analysis}.
+\newblock Springer-Verlag New York, 2016.
+
+\bibitem{xavier17}
+Anthony Przybylski Flavien Lucas Stefan~Ruzika Xavier~Gandibleux,
+  Gauthier~Soleilhac.
+\newblock voptsolver, a "get and run" solver of multiobjective linear
+  optimization problems built on julia and jump.
+\newblock {\em MCDM2017: 24th International Conference on Multiple Criteria
+  Decision Making}, 2017.
+
+\end{thebibliography}

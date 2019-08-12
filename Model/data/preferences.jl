@@ -1,0 +1,39 @@
+
+dt = CSV.read("data/overall.csv");
+dtf = CSV.read("data/entities.csv"); #fetch the data from the .csv
+dtfdev = CSV.read("data/deviations.csv"); #fetch the data from the .csv
+
+
+q = size(dtf)[1]; #number of decision variables
+
+N     = dt[:,:nitems][1]; #number of pieces
+P     = dt[:,:price][1]; #price
+tgoal = dt[:,:taxgoal][1];
+
+tax    = dtf[:,:tax];
+fun    = dtf[:,:function];
+base   = dtf[:,:base];
+fcost  = dtf[:,:fcost];
+vcost  = dtf[:,:vcost];
+lq     = dtf[:,:lquartile];
+mq     = dtf[:,:median];
+uq     = dtf[:,:uquartile];
+mgoal  = dtf[:,:mgoal];
+duties = dtf[:,:duties];
+
+
+
+rbi = filter(x -> x != :id, names(dtfdev)); #create the index of the robust coefficients
+
+θ = robustify(dtf[:,rbi],dtfdev[:,rbi]);
+δ = 2.50;
+tgoal = ((N*P)-sum(((fcost)+(N.*vcost)).*(ones(3) + duties)))*tgoal;
+
+
+for i = 1:q #create the BASE
+    base[i] = evaluate(base[i],fun[i],fcost[i],vcost[i],N,P)
+end
+
+w = (0.25,0.5,0.25); #weight vector
+
+ρ = (0.0,0.0,0.0); #robustness vector

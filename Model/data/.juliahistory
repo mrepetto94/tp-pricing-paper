@@ -1,0 +1,51 @@
+3*3
+Pkg.add("Jump")
+Pkg.add("JuMP")
+Pkg.update()
+Pkg.add("DataFrames")
+readtable("entities.csv")
+CSV.read(entities.csv)
+Pkg.add("CSV")
+using CSV;
+CSV.read("entities.csv")
+df = CVS.read("entities.csv")
+df
+ds$id.entity
+size(df)
+df[:function]
+sum(3,5)
+x
+tax
+df[:c.tax]
+df
+df[c.tax]
+df
+df[tax]
+df[:tax]
+x*tax
+x
+x'
+transpose(x)
+t(x)
+x.'
+x * tax.'
+x .* tax
+(x.*tax).' * ones(2)
+print(m)
+print(m)
+print(m)
+print(m)
+print(m)
+x.*tax
+sum(x.*tax)
+df
+df
+evaluate
+for i = 1:10
+print(i)
+end
+for i=1:q
+print(i)
+end
+2+2
+exit()

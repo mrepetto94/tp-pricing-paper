@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: SCS19_final.aux
+The style file: plain.bst
+Database file #1: reference.bib
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Xavier Gandibleux, Gauthier Soleilhac, Anthony Przybylski, Flavien Lucas, Stefan Ruzika, Pascal Halffmann" for entry xavier17
+while executing---line 1090 of file plain.bst
+You've used 29 entries,
+            2118 wiz_defined-function locations,
+            673 strings with 7749 characters,
+and the built_in function-call counts, 8486 in all, are:
+= -- 829
+> -- 323
+< -- 0
++ -- 132
+- -- 100
+* -- 601
+:= -- 1445
+add.period$ -- 86
+call.type$ -- 29
+change.case$ -- 133
+chr.to.int$ -- 0
+cite$ -- 29
+duplicate$ -- 314
+empty$ -- 734
+format.name$ -- 100
+if$ -- 1774
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 31
+newline$ -- 146
+num.names$ -- 58
+pop$ -- 117
+preamble$ -- 1
+purify$ -- 108
+quote$ -- 0
+skip$ -- 210
+stack$ -- 0
+substring$ -- 595
+swap$ -- 29
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 108
+warning$ -- 0
+while$ -- 83
+width$ -- 31
+write$ -- 311
+(There were 6 error messages)

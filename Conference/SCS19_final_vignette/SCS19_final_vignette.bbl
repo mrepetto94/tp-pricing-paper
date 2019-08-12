@@ -1,0 +1,91 @@
+\begin{thebibliography}{10}
+
+\bibitem{ben-tal97}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust truss topology design via semidefinite programming.
+\newblock {\em SIAM Journal on Optimization}, 7(4):991--1016, 1997.
+
+\bibitem{ben-tal98}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust convex optimization.
+\newblock {\em Mathematics of Operations Research}, 23(4):769--805, 1998.
+
+\bibitem{ben-tal99}
+A.~Ben-Tal and A.~Nemirovski.
+\newblock Robust solutions of uncertain linear programs.
+\newblock {\em Operations Research Letters}, 25(1):1--13, 1999.
+
+\bibitem{bertsimas04}
+D.~Bertsimas and M.~Sim.
+\newblock The price of robustness.
+\newblock {\em Operations Research}, 52(1):35--53, 2004.
+
+\bibitem{bezanson17}
+J.~Bezanson, A.~Edelman, S.~Karpinski, and V.~B. Shah.
+\newblock Julia: a fresh approach to numerical computing.
+\newblock {\em SIAM Review}, 59(1):65--98, 2017.
+
+\bibitem{charnes55}
+A.~Charnes, W.~W. Cooper, and R.~O. Ferguson.
+\newblock Optimal estimation of executive compensation by linear programming.
+\newblock {\em Management science}, 1(2):138--151, 1955.
+
+\bibitem{dantzig55}
+G.~B. Dantzig.
+\newblock Linear programming under uncertainty.
+\newblock {\em Management Science}, 50(12 supplement):1764--1769, 1955.
+
+\bibitem{dunning17}
+I.~Dunning, J.~Huchette, and M.~Lubin.
+\newblock Jump: a modeling language for mathematical optimization.
+\newblock {\em SIAM Review}, 59(2):295--320, 2017.
+
+\bibitem{jones11}
+D.~Jones.
+\newblock A practical weight sensitivity algorithm for goal and multiple
+  objective programming.
+\newblock {\em European Journal of Operational Research}, 213(1):238--245,
+  2011.
+
+\bibitem{kuchta04}
+D.~Kuchta.
+\newblock Robust goal programming.
+\newblock {\em Control and Cybernetics}, 33(3):501--510, 2004.
+
+\bibitem{heimer2003}
+R.~Lougee-Heimer.
+\newblock The common optimization interface for operations research: Promoting
+  open-source software in the operations research community.
+\newblock {\em IBM Journal of Research and Development}, 47(1):57--66, Jan
+  2003.
+
+\bibitem{lubin15}
+M.~Lubin and I.~Dunning.
+\newblock Computing in operations research using julia.
+\newblock {\em INFORMS Journal on Computing}, 27(2):238--248, 2015.
+
+\bibitem{merville1978}
+L.~J. Merville and J.~W. Petty.
+\newblock Transfer pricing for the multinational firm.
+\newblock {\em The Accounting Review}, 53(4):935--951, 1978.
+
+\bibitem{oecd17}
+OECD.
+\newblock {\em OECD Transfer Pricing Guidelines for Multinational Enterprises
+  and Tax Administrations 2017}.
+\newblock OECD, 2017.
+
+\bibitem{soyster73}
+A.~L. Soyster.
+\newblock Technical note-convex programming with set-inclusive constraints and
+  applications to inexact linear programming.
+\newblock {\em Operations Research}, 21(5):1154--1157, 1973.
+
+\bibitem{xavier17}
+A.~P. F. L. S. R. P.~H. Xavier~Gandibleux, Gauthier~Soleilhac.
+\newblock voptsolver, a "get and run" solver of multiobjective linear
+  optimization problems built on julia and jump.
+\newblock {\em MCDM2017: 24th International Conference on Multiple Criteria
+  Decision Making}, 2017.
+
+\end{thebibliography}

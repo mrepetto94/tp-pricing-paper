@@ -1,0 +1,102 @@
+Pkg.add("vOptGeneric")
+m
+m = vModel(solver = GLPKSolverMIP())
+vModel
+Pkg.add("vOptGeneric")
+Pkg.add("GLPK") ; Pkg.add("GLPKMathProgInterface")
+using vOptGeneric
+using JuMP
+Pkg.add("JuMP")
+using Pkg
+using vOptGeneric
+Pkg.add("JuMP")
+using JuMP
+m = vModel(solver = GLPKSolverMIP())
+status
+m
+solve(m)
+x[1]
+x
+JuMP.
+Math
+ using Pkg
+Pkg.installed()
+getvalue()
+getobjectivevalue()
+exit()
+rhocb
+rhocb
+w
+w[1,1]
+w[1
+]
+w[1,1]
+res
+status
+solve(m)
+m
+dt
+df
+solve(m)
+print(m)
+print(m)
+print(m)
+print(m)
+base
+dt
+dt[!,nitems]
+dt[:nitems]
+dt["nitems"]
+dt[,"nitems"]
+dt[!,!]
+dt[!,]
+dt[:,]
+dt[:,:]
+dt[:,1]
+dt[:,:nitems]
+N
+P
+tax
+tax
+base
+base
+P
+N
+evaluate(base[1],fun[1],fcost[1],vcost[1],N,P)
+fun
+fun[1]
+fcost[1]
+fcost[1]+(N)
+ N
+fcost[1]+(10)
+ N + 10
+dt
+dtf
+evaluate
+base
+clear all
+clear
+print(m)
+base
+base
+base
+base
+print(m)
+solve(m)
+b
+b
+pi
+z
+solve(m)
+print(m)
+print(m)
+print(m)
+solve(m)
+solve(m)
+print(m)
+exit
+exit()
+solve(m)
+exit()
+q
+q
